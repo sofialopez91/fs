@@ -1,0 +1,11 @@
+console.log("batir huevos a punto nieve ");
+console.log("agregar 100 gramos de azucar");
+console.log("agregar aceite y batir");
+console.log("incorporar 250 harina leudante");
+console.log("batir e ir agregando leche");
+console.log("agregar nueces y chocolate enharinado");
+console.log("enmantecar y enharinar molde");
+console.log("poner en molde ");
+console.log("cocinar durante 40 minutosa 180°");
+console.log("cuando introducimos un palillo y sale limpio la torta esta lista");
+console.log("dejar enfriar, desmoldar y a comer");
